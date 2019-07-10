@@ -8,10 +8,10 @@
       <v-spacer></v-spacer>
       <v-btn
         flat
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
+        href="https://github.com/marcus7777/Audio-Translation-Demo"
         target="_blank"
       >
-        <span class="mr-2">Latest Release</span>
+        <span class="mr-2">github</span>
       </v-btn>
     </v-toolbar>
 
