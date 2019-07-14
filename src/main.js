@@ -4,7 +4,9 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 import AudioRecorder from 'vue-audio-recorder'
+import { firestorePlugin } from 'vuefire'
 
+Vue.use(firestorePlugin)
 Vue.use(AudioRecorder)
 
 new Vue({
